@@ -1,7 +1,7 @@
 """
 http://upgrayd.blogspot.de/2011/03/logitech-dual-action-usb-gamepad.html
 
-G27
+G29
 ===
 example::
 
